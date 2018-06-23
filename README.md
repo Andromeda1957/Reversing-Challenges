@@ -5,7 +5,7 @@
 ## About
 All binaries are written in C there will be none wriiten in C++ <br />
 These challenges are for practicing your reverse engineering skiils. <br />
-Challenges are in no specific order just because a challenge maybe be called level01 that does not mean it is easier then level10. Each challenge is unique and is designed to covers a specific topic. Starting with level01 each challenge is designed with a specifc solution in mind. This is why level03 may be easier to solve then level01 for example so difficulty is really a subjective thing.
+Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10. 
 
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
