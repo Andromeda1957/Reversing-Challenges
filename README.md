@@ -7,6 +7,9 @@ All binaries are written in C there will be none wriiten in C++ <br />
 These challenges are for practicing your reverse engineering skills. <br />
 Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10. 
 
+## Flags
+The flag is the password and the password will always be obvious and not random garbage. <br />
+
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
 Things you will need include: <br />
