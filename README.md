@@ -4,7 +4,7 @@
 
 ## About
 All binaries are written in C there will be none wriiten in C++ <br />
-These challenges are for practicing your reverse engineering skiils. <br />
+These challenges are for practicing your reverse engineering skills. <br />
 Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10. 
 
 ## New to reverse engineering?
