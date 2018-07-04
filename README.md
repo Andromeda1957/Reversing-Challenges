@@ -14,7 +14,7 @@ The flag is a correct password and it is important to note that each challenge m
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
 Things you will need include: <br />
-1. Knowledge in assembly, C, and Python <br />
+1. Knowledge in assembly and C<br />
 2. Know how to use tools such as GDB, IDA, radare, hex editor 
 
 ## Tools
