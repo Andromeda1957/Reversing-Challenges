@@ -5,8 +5,9 @@
 ## About
 All binaries are written in C there will be none wriiten in C++ <br />
 These challenges are for practicing your reverse engineering skills. <br />
-Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10. 
+Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10.<br /> 
 If you get the error _bash: file: cannot execute binary file: Exec format error_ this is intended.
+
 ## Flags
 The flag is a correct password and it is important to note that each challenge may have more then 1 correct password this is intended. <br />
 
