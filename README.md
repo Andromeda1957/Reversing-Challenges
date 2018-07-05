@@ -26,7 +26,7 @@ Tools to use for reverse engineering include: <br />
 4. Strace and ltrace <br />
 5. Packer/Unpacker.  <br />
 6. Scripting language (example: Python) <br />
-7. Sublime text (Note taking and scripting)
+7. Text editor (example: Sublime text) (Note taking and scripting)
 
 ## Contact me
 If you have any questions about these challenges or reverse engineering in general feel free to message me on twitter https://twitter.com/3XPL017GH057 and I will get back to you as soon as I can.
