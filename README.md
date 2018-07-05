@@ -22,15 +22,14 @@ Things you will need include: <br />
 2. Know how to use tools such as GDB, IDA, radare, hex editor, etc 
 
 ## Tools
-Tools I like to use for reverse engineering include: <br />
-1. GDB with pwndbg plugin <br />
-2. IDA <br />
-3. Radare <br />
-4. Hex editor of your choice <br />
-5. strace and ltrace <br />
-6. Packer/Unpacker.  <br />
-7. Scripting language (example: Python) <br />
-8. Sublime text (Note taking and scripting)
+Tools to use for reverse engineering include: <br />
+1. GDB (optional: pwndbg plugin) <br />
+2. Disassembler (example: IDA) <br />
+3. Hex editor of your choice <br />
+4. strace and ltrace <br />
+5. Packer/Unpacker.  <br />
+6. Scripting language (example: Python) <br />
+7. Sublime text (Note taking and scripting)
 
 ## Contact me
 If you have any questions about these challenges or reverse engineering in general feel free to message me on twitter https://twitter.com/3XPL017GH057 and I will get back to you as soon as I can.
