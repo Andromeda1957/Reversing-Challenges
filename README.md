@@ -16,10 +16,7 @@ For any level: anything goes use anything and everything at your disposal. <br /
 misc00: Do not use a debugger of any kind.
 
 ## New to reverse engineering?
-Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
-Things you will need include: <br />
-1. Knowledge in assembly and C<br />
-2. Know how to use tools such as GDB, IDA, radare, hex editor, etc 
+Check out my blog https://medium.com/@Andromeda./introduction-to-reverse-engineering-251d6432f7ec <br />
 
 ## Tools
 Tools to use for reverse engineering include: <br />
