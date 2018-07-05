@@ -12,8 +12,8 @@ If you get this error or anything similar  __bash: file: cannot execute binary f
 The flag is a correct password and it is important to note that each challenge may have more then 1 correct password this is intended. <br />
 
 ## Rules
-For any level anything goes use everything and anything at your disposal. <br />
-msic00 Do not use a debugger of any kind.
+For any level: anything goes use everything and anything at your disposal. <br />
+msic00: Do not use a debugger of any kind.
 
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
