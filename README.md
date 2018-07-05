@@ -13,7 +13,7 @@ The flag is a correct password and it is important to note that each challenge m
 
 ## Rules
 For any level: anything goes use everything and anything at your disposal. <br />
-msic00: Do not use a debugger of any kind.
+misc00: Do not use a debugger of any kind.
 
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
