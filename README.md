@@ -23,7 +23,7 @@ Tools to use for reverse engineering include: <br />
 1. GDB (optional: pwndbg plugin) <br />
 2. Disassembler (example: IDA) <br />
 3. Hex editor of your choice <br />
-4. strace and ltrace <br />
+4. Strace and ltrace <br />
 5. Packer/Unpacker.  <br />
 6. Scripting language (example: Python) <br />
 7. Sublime text (Note taking and scripting)
