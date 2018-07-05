@@ -3,23 +3,23 @@
 ## All binaries are ELF format and x64 bit.
 
 ## About
-All binaries are written in C there will be none wriiten in C++ <br />
+All binaries are written in C there will be none written in C++ <br />
 These challenges are for practicing your reverse engineering skills. <br />
-Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then level10.<br /> 
+Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then levelFF.<br /> 
 If you get this error or anything similar  __bash: file: cannot execute binary file: Exec format error__ this is intended.
 
 ## Flags
 The flag is a correct password and it is important to note that each challenge may have more then 1 correct password this is intended. <br />
 
 ## Rules
-For any level: anything goes use everything and anything at your disposal. <br />
+For any level: anything goes use anything and everything at your disposal. <br />
 misc00: Do not use a debugger of any kind.
 
 ## New to reverse engineering?
 Check out my blog https://medium.com/@3XPL017/introduction-to-reverse-engineering-251d6432f7ec <br />
 Things you will need include: <br />
 1. Knowledge in assembly and C<br />
-2. Know how to use tools such as GDB, IDA, radare, hex editor 
+2. Know how to use tools such as GDB, IDA, radare, hex editor, etc 
 
 ## Tools
 Tools I like to use for reverse engineering include: <br />
