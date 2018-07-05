@@ -28,8 +28,9 @@ Tools I like to use for reverse engineering include: <br />
 3. Radare <br />
 4. Hex editor of your choice <br />
 5. strace and ltrace <br />
-6. Scripting language (example: Python) <br />
-7. Sublime text (Note taking and scripting)
+6. Packer/Unpacker.  <br />
+7. Scripting language (example: Python) <br />
+8. Sublime text (Note taking and scripting)
 
 ## Contact me
 If you have any questions about these challenges or reverse engineering in general feel free to message me on twitter https://twitter.com/3XPL017GH057 and I will get back to you as soon as I can.
