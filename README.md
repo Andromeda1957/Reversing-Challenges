@@ -1,6 +1,6 @@
 # Reversing-Challenges
 
-## All binaries are ELF format and x64 bit.
+## All binaries are ELF format
 
 ## About
 All binaries are written in C there will be none written in C++ <br />
