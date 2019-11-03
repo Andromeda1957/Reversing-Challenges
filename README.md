@@ -3,7 +3,6 @@
 ## All binaries are ELF format
 
 ## About
-All binaries are written in C there will be none written in C++ <br />
 These challenges are for practicing your reverse engineering skills. <br />
 Challenges are in no specific order just because a challenge maybe be called level00 that does not mean it is easier then levelFF.<br /> 
 If you get this error or anything similar  __bash: file: cannot execute binary file: Exec format error__ this is intended.
